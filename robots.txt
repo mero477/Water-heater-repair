@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://water-heater-repair-mu.vercel.app/sitemap.xml
